@@ -1,0 +1,1 @@
+export const URL = "https://home-rent-backend-i78t.onrender.com";
