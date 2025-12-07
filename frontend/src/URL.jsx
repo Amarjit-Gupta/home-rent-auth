@@ -1,1 +1,1 @@
-export const URL = "https://home-rent-backend-i78t.onrender.com";
+export const URL = "https://mern-crud-ashen-chi.vercel.app";
